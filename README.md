@@ -1,5 +1,8 @@
 # Tugas-Prak-RSI-1
 
+
+## Tujuan Projct
+Project ini bertujuan untuk mempelajari penggunaan GitHub.
 ## Kelompok 5
 1. Lightman Danis Nurul Huda (L0225025)
 2. Ghaza Adzkiya Nashirulhaq Al Basori (L0225033)
